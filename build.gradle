@@ -1,0 +1,26 @@
+
+plugins {
+  id "org.jetbrains.kotlin.jvm" version "1.8.0"
+  id "application"
+}
+
+group = "ecomp.poli"
+version = "1.0-BETA"
+
+repositories {
+    mavenCentral()
+    google()
+}
+
+dependencies {
+}
+
+sourceSets {
+}
+
+application {
+   mainClass = "HelloKt"
+}
+
+
+

@@ -1,0 +1,6 @@
+Exemplo de Programa em Kotlin.
+
+Para compilar execute:
+
+c> gradlew build
+c> gradlew run
